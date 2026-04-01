@@ -1,0 +1,13 @@
+{
+  "name": "my-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "",
+    "build": "",
+    "start": "",
+    "lint": ""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
